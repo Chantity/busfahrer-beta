@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702923694502,
+  "timestamp": 1702924472563,
   "index": "/busfahrer-beta/index.html",
   "assetGroups": [
     {
@@ -172,11 +172,11 @@
     "/busfahrer-beta/campus.bde7e97027d9b7c9.png": "05ff5c86947fac86e894f0d80ce0940b48e9b059",
     "/busfahrer-beta/dach.cafc4f1a0b849e7d.png": "899cc43763c602f5588200a14428d5827898df8e",
     "/busfahrer-beta/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/busfahrer-beta/index.html": "cbe3b192cf69bad38664816578ecf930b3f946d6",
+    "/busfahrer-beta/index.html": "097cfa52220e29dfa4ae8d19f424fd23e4d4db3f",
     "/busfahrer-beta/joker.bf5a1dcbc61ea4a3.gif": "7c564cb53fe8856c6a9523570e0d55129d42f2f8",
     "/busfahrer-beta/kroellwitzbruecke.4945913479b1498a.png": "76b325aa3be53806d275e905cc8500f053e7bc23",
     "/busfahrer-beta/main.ba97bf88c8bd1d6b.js": "69526e4a0166c0a8c09d109b57c5a9ea3c6f7d48",
-    "/busfahrer-beta/manifest.webmanifest": "f99d71c381a5e6f6832caac2bea89ecce16a8b73",
+    "/busfahrer-beta/manifest.webmanifest": "c28206c5267a88f926140b3d90d26619f1b8ffbb",
     "/busfahrer-beta/polyfills.a85ceb2a376309a6.js": "300dc3a4e95f01b617b05ab7f3a1376daf8dbb96",
     "/busfahrer-beta/runtime.6e569d090ab1aec9.js": "e4407c39612c391c08ea9b775c9a78ddd254a952",
     "/busfahrer-beta/speedberg.8f524cef8ecc32ac.png": "af8eb6bcb47c1f005d7edd81d1103494db5c696f",
