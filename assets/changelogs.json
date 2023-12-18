@@ -8,7 +8,7 @@
         }, {
             "version": "1.1",
             "changes": [
-                "neues Logo eingefügt",
+                "neues Logo eingefügt (Credits: Bananenbabo)",
                 "\"Hintergrundbild ändern\"-Funktion hinzugefügt",
                 "Changelogs hinzugefügt"
             ]
@@ -31,6 +31,8 @@
             "version": "1.4",
             "changes": [
                 "Einstellungsseite hinzugefügt",
+                "Logo angepasst (Credits: Bananenbabo)",
+                "\"Mehr\"-Button mit Links zu anderen Versionen auf der Startseite hinzugefügt",
                 "Cookies hinzugefügt",
                 "Spieler müssen jetzt registriert werden",
                 "Spieler haben jetzt Statistiken: Schlücke verteilt, Schlücke kassiert, Wie oft Busfahrer",
