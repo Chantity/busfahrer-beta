@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702907664371,
+  "timestamp": 1702912791787,
   "index": "/busfahrer-beta/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/busfahrer-beta/favicon.ico",
         "/busfahrer-beta/index.html",
-        "/busfahrer-beta/main.84db5e05f0de129f.js",
+        "/busfahrer-beta/main.ce178b247a2b0613.js",
         "/busfahrer-beta/manifest.webmanifest",
         "/busfahrer-beta/polyfills.a85ceb2a376309a6.js",
         "/busfahrer-beta/runtime.6e569d090ab1aec9.js",
@@ -156,10 +156,10 @@
     "/busfahrer-beta/campus.bde7e97027d9b7c9.png": "05ff5c86947fac86e894f0d80ce0940b48e9b059",
     "/busfahrer-beta/dach.cafc4f1a0b849e7d.png": "899cc43763c602f5588200a14428d5827898df8e",
     "/busfahrer-beta/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/busfahrer-beta/index.html": "521ca718c94de7e12e625e6cadef313a1fcb78fb",
+    "/busfahrer-beta/index.html": "0dadacddad55d146071e86e1ffb2a611c0d8d714",
     "/busfahrer-beta/joker.bf5a1dcbc61ea4a3.gif": "7c564cb53fe8856c6a9523570e0d55129d42f2f8",
     "/busfahrer-beta/kroellwitzbruecke.4945913479b1498a.png": "76b325aa3be53806d275e905cc8500f053e7bc23",
-    "/busfahrer-beta/main.84db5e05f0de129f.js": "7ca62b8af9acf9d1dce00aaf4f36d87b9383a1e5",
+    "/busfahrer-beta/main.ce178b247a2b0613.js": "e79d6126cee7a1951902f05c45234adcca9ee914",
     "/busfahrer-beta/manifest.webmanifest": "f99d71c381a5e6f6832caac2bea89ecce16a8b73",
     "/busfahrer-beta/polyfills.a85ceb2a376309a6.js": "300dc3a4e95f01b617b05ab7f3a1376daf8dbb96",
     "/busfahrer-beta/runtime.6e569d090ab1aec9.js": "e4407c39612c391c08ea9b775c9a78ddd254a952",
